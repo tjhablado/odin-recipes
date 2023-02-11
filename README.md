@@ -1,1 +1,2 @@
 # odin-recipes
+In this project, I'll be applying what I learned so far about command lines, Git, Github, and HTML 5. I am tasked to create a recipe website. Since I am Filipino, I'll be creating a recipe website for American dishes.Yes, you read it write. 
